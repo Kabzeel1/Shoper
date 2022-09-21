@@ -1,7 +1,7 @@
 .super-market {
   display: flex;
   height: 100vh;
-  background: #f5f8fc;
+  background: #7b7e83;
 }
 
 .super-market::after {
